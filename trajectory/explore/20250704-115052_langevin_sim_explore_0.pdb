@@ -1,0 +1,4 @@
+REMARK   1 CREATED WITH OPENMM 8.1.1, 2025-07-04
+HETATM    1  X   xxx A   1      22.971  -0.241   0.037  1.00  0.00           X  
+TER       2      xxx A   1
+END
